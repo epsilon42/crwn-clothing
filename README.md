@@ -7,6 +7,7 @@ A boilerplate for an online store using:
 - Redux
 - Redux Thunk
 - Stripe
+- Firebase (Auth/Store)
 
 ---
 
