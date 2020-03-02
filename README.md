@@ -1,3 +1,15 @@
+**THIS IS A WORK IN PROGRESS**
+
+A boilerplate for an online store using:
+
+- React + Hooks
+- React Router
+- Redux
+- Redux Thunk
+- Stripe
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
